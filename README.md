@@ -5,6 +5,18 @@
 - RabbitMQ
 - MailKit
 - BCrypt and JWT
+
+## API Documentation
+
+### Database Setup
+
+To set up the database, you can use the provided SQL export file. Download the file from the following link:
+
+[Download TicketSystem.bacpac](https://github.com/SabirHalil/TicketSystem/blob/master/TicketSystem/assets/TicketSystem.bacpac)
+
+You can import this file into your SQL Server to set up the database schema and data.
+
+  
 ## EndPoints
 ### Airport
 {
