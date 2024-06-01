@@ -14,5 +14,6 @@ namespace TicketSystem.Models
         public DbSet<Ticket> Tickets { get; set; }
         public DbSet<MilesSmilesAccount> MilesSmilesAccounts { get; set; }
         public DbSet<Airport> Airports { get; set; }
+        public DbSet<Passenger> Passengers { get; set; }
     }
 }
